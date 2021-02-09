@@ -1,0 +1,1 @@
+You need to create a rudimentary text editor, all that allows for merely open files for editing and saving text.
